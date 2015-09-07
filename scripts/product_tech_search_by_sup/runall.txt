@@ -1,0 +1,14 @@
+python.exe .\search_main_by_sup1.py
+python.exe .\search_main_by_sup2.py
+python.exe .\search_main_by_sup3.py
+python.exe .\search_main_by_sup4.py
+python.exe .\search_main_by_sup5.py
+python.exe .\search_main_by_sup6.py
+python.exe .\search_main_by_sup7.py
+python.exe .\search_main_by_sup8.py
+python.exe .\search_main_by_sup9.py
+python.exe .\search_main_by_sup10.py
+python.exe .\search_main_by_sup11.py
+python.exe .\search_main_by_sup12.py
+python.exe .\search_main_by_sup13.py
+python.exe .\search_main_by_sup14.py
